@@ -1,0 +1,7 @@
+aws_region         = "us-east-1"
+project_name       = "platform"
+environment        = "dev"
+instance_type      = "t3.micro"
+key_name           = null
+ssh_cidr           = "203.0.113.10/32"
+availability_zones = ["us-east-1a", "us-east-1b"]
